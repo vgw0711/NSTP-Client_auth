@@ -1,0 +1,12 @@
+AAAA:$5$rounds=535000$vHKshG.q2BC6AsO/$jTb7LtAf6D/BZaVEvb3wl4bOPHlS9TPR9S13WQeCYb1
+BBBB:$6$rounds=656000$G1j/bkAMsN6DS8K4$aBHYG4T3IICrL24UlU8vQ/j8Xgu33XOOxYnqeM1LIKTIaw3UkRSFvgJUkBX/B7WhjADuw/WqlR6Kt0HtH/GP81
+CCCC:$1$FEqlr7vW$fXTj2a2/lbbJ7pbM9gxGY1
+DDDD:$argon2id$v=19$m=102400,t=2,p=8$BmBsrVWqNQbg3Pu/t3aOsQ$njs+E6At5WIeSS1iNLJW1g
+AAAA:$5$rounds=535000$m/iP.hrKkgNwM0fa$BqJ/3qNrZ/ZrGcJSLaxj9WTW1bqkFGK.9xDtGywJx1A
+BBBB:$6$rounds=656000$DvMIibbffplbx00q$OsUn28dTrL8KxVJ73l6Gam0l4C58ZiuA.v01OzgBCJ.5nE8.hJNSLIi/NeBL4gDHt9BnBW.HOzWAu9B02MWFz.
+CCCC:$1$e/6E5jzg$tFT0fZfuN8YNgcCFxwnYw.
+DDDD:$argon2id$v=19$m=102400,t=2,p=8$pNRaC4Hw3lurVcr5//8fIw$xooJXYFk0dqDDvP1cXAQCg
+mario:$1$4mvx20Xo$hKB.NkeNPRpy3PJHeeYuv/
+luigi:$5$rounds=535000$adryTLCaBPG7/lOl$AZE2I4PYPVwEog0xxPANLPtbfJ.TrmxcceayDudag8.
+dk:$6$rounds=656000$zhwd8ZsXUcrL8HXs$8QMa5V.flLZWy7qOINwvJAye1btOFm6gtIcnRsM3Sqm6bQVtpwZeJur/Q5JMXh3WU66Yhk/.sdQr3cXPGt5Us1
+bowser:$argon2id$v=19$m=102400,t=2,p=8$jzGmlJLyvtfaGyPEGCNkDA$7AAn3AugwHqBf0C6pshIig
